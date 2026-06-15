@@ -1,5 +1,5 @@
 ---
-title: "AI in Digital Forensics — THM Room Walkthrough"
+title: "AI in Digital Forensics - THM Room Walkthrough"
 categories:
   - tryhackme
 tags:
@@ -9,4 +9,4 @@ tags:
   - blue-team
 ---
 
-Work in progress — full writeup coming soon.
+Work in progress - full writeup coming soon.
