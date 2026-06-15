@@ -1,0 +1,45 @@
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+
+title: "Ross Fisher"
+description: "Security research, cloud infrastructure, and the learning path."
+url: "https://blog.therossfisher.xyz"
+baseurl: ""
+
+author:
+  name: "Ross Fisher"
+  bio: "Field engineer transitioning into security."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/therossfisher"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/rossfish"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file"
+      url: "https://therossfisher.xyz"
+
+permalink: /:categories/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      show_date: true
+      related: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+
+tag_archive:
+  type: liquid
+  path: /tags/
