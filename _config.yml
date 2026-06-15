@@ -46,3 +46,6 @@ tag_archive:
 
 markdown: kramdown
 highlighter: rouge
+
+future: true
+timezone: America/Los_Angeles
