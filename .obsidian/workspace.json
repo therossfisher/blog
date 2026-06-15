@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Test/2026-06-16-test-post-1.md",
+                "file": "_posts/2026-06-16-test-post-1.md",
                 "mode": "source",
                 "source": false
               },
@@ -183,10 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "024b01c02a1b5c45",
+  "active": "31ff5ee3fc56c592",
   "lastOpenFiles": [
+    "categories.md",
     "_posts/2026-06-16-ai-forensics-thm.md",
-    "_posts/Test/2026-06-16-test-post-1.md",
+    "_posts/2026-06-16-test-post-1.md",
     "Templates/YYYY-MM-DD-title-with-dashes.md.md",
     "_posts/Test",
     "Templates"
