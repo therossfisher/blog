@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/YYYY-MM-DD-title-with-dashes.md.md",
+                "file": "_posts/Test/2026-06-16-test-post-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YYYY-MM-DD-title-with-dashes.md"
+              "title": "2026-06-16-test-post-1"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "024b01c02a1b5c45",
   "lastOpenFiles": [
-    "_posts/2026-06-16-ai-forensics-thm.md",
     "Templates/YYYY-MM-DD-title-with-dashes.md.md",
+    "_posts/2026-06-16-ai-forensics-thm.md",
+    "_posts/Test/2026-06-16-test-post-1.md",
+    "_posts/Test",
     "Templates"
   ]
 }
