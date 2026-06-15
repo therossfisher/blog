@@ -49,3 +49,12 @@ highlighter: rouge
 
 future: true
 timezone: America/Los_Angeles
+
+navigation:
+  main:
+    - title: "TryHackMe"
+      url: /categories/#tryhackme
+    - title: "HTB"
+      url: /categories/#htb
+    - title: "Cloud"
+      url: /categories/#cloud-resume-challenge
