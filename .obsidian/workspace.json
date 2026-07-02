@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-06-16-test-post-1.md",
+                "file": "_posts/2026-06-16-ai-forensics-thm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-16-test-post-1"
+              "title": "2026-06-16-ai-forensics-thm"
             }
           }
         ]
@@ -183,11 +183,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "31ff5ee3fc56c592",
+  "active": "024b01c02a1b5c45",
   "lastOpenFiles": [
+    "_posts/2026-06-16-test-post-1.md",
+    "_data/navigation.yml",
+    "_data",
     "categories.md",
     "_posts/2026-06-16-ai-forensics-thm.md",
-    "_posts/2026-06-16-test-post-1.md",
     "Templates/YYYY-MM-DD-title-with-dashes.md.md",
     "_posts/Test",
     "Templates"
